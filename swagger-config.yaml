@@ -1,6 +1,6 @@
 ---
-url: "http://api-docs.acima.io/swagger.json"
-#url: "http://api-docs.acima.io/staging/swagger.json"
+#url: "http://api-docs.acima.io/swagger.json"
+url: "http://api-docs.acima.io/staging/swagger.json"
 dom_id: "#swagger-ui"
 validatorUrl: "https://online.swagger.io/validator"
 oauth2RedirectUrl: "http://localhost:3200/oauth2-redirect.html"
